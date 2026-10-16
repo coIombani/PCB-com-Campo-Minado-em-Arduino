@@ -11,5 +11,3 @@ A matriz usa o pino D8, o buzzer usa D7 e os botões usam D2 (esquerda), D3 (con
 No menu, escolha a dificuldade com cima/baixo e confirme com o botão central. Durante o jogo, os direcionais movem o cursor, um toque no botão central abre a casa e segurá-lo por meio segundo coloca ou remove uma bandeira.
 
 Para ver o esquema e a PCB, importe `Campo_Minado.epro2` no EasyEDA como projeto **EasyEDA Professional**.
-
-[Apresentação com fotos da montagem](docs/apresentacao.pdf)
